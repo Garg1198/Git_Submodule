@@ -1,4 +1,4 @@
-##Git Submodule project
+## **Git Submodule project**
 
 This repository is just an example on how 'git submodule' command can be used to add external libraries to a cmake project 
 
