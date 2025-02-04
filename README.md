@@ -1,3 +1,4 @@
+##Git Submodule project
 This repository is just an example on how 'git submodule' command can be used to add external libraries to a cmake project 
 
   
@@ -24,6 +25,6 @@ Next tutorial we are going to use the unit test library to carry on some unit te
 
  
 
-****NOTE: One thing is very important that for the above git commands to work properly the repository must be git initialised or it must be available in git as a repository. On local projects the command will not work. To make it work temporarily one can open the VS Code terminal and type ‘git init’ 
+******NOTE: One thing is very important that for the above git commands to work properly the repository must be git initialised or it must be available in git as a repository. On local projects the command will not work. To make it work temporarily one can open the VS Code terminal and type ‘git init’ **
 
  
